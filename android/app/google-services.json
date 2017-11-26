@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "808584000388",
+    "firebase_url": "https://fireapp-61434.firebaseio.com",
+    "project_id": "fireapp-61434",
+    "storage_bucket": "fireapp-61434.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808584000388:android:37ac1fa2024cde5b",
+        "android_client_info": {
+          "package_name": "com.stockalert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808584000388-1i87gkgnl4qfjd09em9vlr2urj62crv6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjbU6T1q3oeM8LEQkeGGxAVIC-amdAjow"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808584000388:android:f149ff492f21f4cf",
+        "android_client_info": {
+          "package_name": "com.manskimarketalert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808584000388-1i87gkgnl4qfjd09em9vlr2urj62crv6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjbU6T1q3oeM8LEQkeGGxAVIC-amdAjow"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,4 @@
+<resources>
+    <string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey">Clx3lN8CuC0XIbb2Osd6fohNJVrp4JvAsxqMz</string>
+    <string name="app_name">Stock Spikes</string>
+</resources>

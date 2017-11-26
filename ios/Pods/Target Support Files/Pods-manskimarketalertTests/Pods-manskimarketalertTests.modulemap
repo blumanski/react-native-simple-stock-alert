@@ -1,0 +1,6 @@
+framework module Pods_manskimarketalertTests {
+  umbrella header "Pods-manskimarketalertTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

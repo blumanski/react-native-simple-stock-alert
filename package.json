@@ -1,0 +1,32 @@
+{
+  "name": "manskimarketalert",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "firebase": "^3.6.4",
+    "lodash": "^4.17.2",
+    "moment": "^2.17.1",
+    "native-base": "^0.5.18",
+    "react": "15.4.1",
+    "react-native": "0.39.2",
+    "react-native-code-push": "^1.16.1-beta",
+    "react-native-device-info": "^0.9.7",
+    "react-native-fcm": "^2.5.2",
+    "react-native-scrollable-tab-view": "git+https://github.com/skv-headless/react-native-scrollable-tab-view.git",
+    "react-native-vector-icons": "^3.0.0",
+    "tcomb-form-native": "^0.6.1"
+  },
+  "jest": {
+    "preset": "react-native"
+  },
+  "devDependencies": {
+    "babel-jest": "18.0.0",
+    "babel-preset-react-native": "1.9.1",
+    "jest": "18.0.0",
+    "react-test-renderer": "15.4.1"
+  }
+}
